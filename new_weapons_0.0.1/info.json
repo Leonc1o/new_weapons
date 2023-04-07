@@ -1,0 +1,11 @@
+{
+  "name": "new_weapons",
+  "version": "0.0.1",
+  "title": "New Weapons",
+  "author": "Leoncio",
+  "contact":"",
+  "homepage":"", 
+  "description": "Adds new Weapons and Ammunitions to the game: Assault Rifle, High Caliber Pistol, Rifle and a Sniper Rifle.",
+  "dependencies": ["base >= 1.1", "? Flashligh Weapon", "? Tracer Ammunition", "? Rampant"],
+  "factorio_version": "1.1"
+}
